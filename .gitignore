@@ -50,3 +50,6 @@ report.[0-9]_.[0-9]_.[0-9]_.[0-9]_.json
 .directory
 .Trash-*
 .nfs*
+
+# Library Playground HTML File
+playground.html
